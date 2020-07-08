@@ -1,3 +1,4 @@
 tes puyang
 1. bikin file
-2. tes edit
+2. 
+3. tambah log dan hapus tes edit
